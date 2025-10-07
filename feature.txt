@@ -1,0 +1,5 @@
+Tính năng mới: Tự động tạo báo cáo tiến độ học tập.
+Hệ thống sẽ ghi nhận thời gian hoàn thành từng bài.
+Cho phép theo dõi biểu đồ tiến độ học tập hàng ngày.
+Cảnh báo nếu người dùng không cập nhật tiến độ trong 2 ngày.
+Tích hợp xuất báo cáo PDF cuối tuần.
