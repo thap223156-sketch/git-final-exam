@@ -1,4 +1,4 @@
-Xin chào, tôi là Nguyễn Ngọc Tháp
+Hello, this is Nguyễn Ngọc Tháp
 Tôi là sinh viên CNTT.
 Sở thích: câu cá, lập trình, nghe nhạc.
 Kỹ năng: Git, Python, HTML/CSS.
